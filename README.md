@@ -38,7 +38,7 @@ To begin my career as a Frontend Developer, apply my technical knowledge, contin
 
 - **GitHub:** https://github.com/bhagya147
 - **LinkedIn:** https://www.linkedin.com/in/bhagya-veni/
-- **Portfolio:** 
+- **Portfolio:** https://bhagya147.github.io/official-portfolio/
 - **Email:** gowripattapubhagyaveni996@gmail.com
 
 ---
